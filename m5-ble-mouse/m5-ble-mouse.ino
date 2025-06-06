@@ -1,6 +1,7 @@
 #include <M5Unified.h>
 #include <BleMouse.h>
 
+// Device Nameを好きな名称に設定してください
 BleMouse bleMouse("Device Name");
 
 bool connected = false;
